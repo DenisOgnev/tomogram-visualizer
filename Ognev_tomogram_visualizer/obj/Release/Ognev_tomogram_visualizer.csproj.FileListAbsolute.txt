@@ -1,0 +1,17 @@
+C:\Users\denis\Desktop\учеба\графика\Ognev_tomogram_visualizer\Ognev_tomogram_visualizer\bin\Release\Ognev_tomogram_visualizer.exe.config
+C:\Users\denis\Desktop\учеба\графика\Ognev_tomogram_visualizer\Ognev_tomogram_visualizer\bin\Release\Ognev_tomogram_visualizer.exe
+C:\Users\denis\Desktop\учеба\графика\Ognev_tomogram_visualizer\Ognev_tomogram_visualizer\bin\Release\Ognev_tomogram_visualizer.pdb
+C:\Users\denis\Desktop\учеба\графика\Ognev_tomogram_visualizer\Ognev_tomogram_visualizer\bin\Release\OpenTK.dll
+C:\Users\denis\Desktop\учеба\графика\Ognev_tomogram_visualizer\Ognev_tomogram_visualizer\bin\Release\OpenTK.GLControl.dll
+C:\Users\denis\Desktop\учеба\графика\Ognev_tomogram_visualizer\Ognev_tomogram_visualizer\bin\Release\OpenTK.pdb
+C:\Users\denis\Desktop\учеба\графика\Ognev_tomogram_visualizer\Ognev_tomogram_visualizer\bin\Release\OpenTK.xml
+C:\Users\denis\Desktop\учеба\графика\Ognev_tomogram_visualizer\Ognev_tomogram_visualizer\bin\Release\OpenTK.GLControl.pdb
+C:\Users\denis\Desktop\учеба\графика\Ognev_tomogram_visualizer\Ognev_tomogram_visualizer\bin\Release\OpenTK.GLControl.xml
+C:\Users\denis\Desktop\учеба\графика\Ognev_tomogram_visualizer\Ognev_tomogram_visualizer\obj\Release\Ognev_tomogram_visualizer.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\учеба\графика\Ognev_tomogram_visualizer\Ognev_tomogram_visualizer\obj\Release\Ognev_tomogram_visualizer.Form1.resources
+C:\Users\denis\Desktop\учеба\графика\Ognev_tomogram_visualizer\Ognev_tomogram_visualizer\obj\Release\Ognev_tomogram_visualizer.Properties.Resources.resources
+C:\Users\denis\Desktop\учеба\графика\Ognev_tomogram_visualizer\Ognev_tomogram_visualizer\obj\Release\Ognev_tomogram_visualizer.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\учеба\графика\Ognev_tomogram_visualizer\Ognev_tomogram_visualizer\obj\Release\Ognev_tomogram_visualizer.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\учеба\графика\Ognev_tomogram_visualizer\Ognev_tomogram_visualizer\obj\Release\Ognev_tomogram_visualizer.csproj.CopyComplete
+C:\Users\denis\Desktop\учеба\графика\Ognev_tomogram_visualizer\Ognev_tomogram_visualizer\obj\Release\Ognev_tomogram_visualizer.exe
+C:\Users\denis\Desktop\учеба\графика\Ognev_tomogram_visualizer\Ognev_tomogram_visualizer\obj\Release\Ognev_tomogram_visualizer.pdb
